@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kop:home|Door43 (kop)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kop|d43-kop repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kop/archive/master.zip|d43-kop.zip]]
+
+**Recent Changes**
+{{changes>ns = kop}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kop|Ethnologue data]]
+
